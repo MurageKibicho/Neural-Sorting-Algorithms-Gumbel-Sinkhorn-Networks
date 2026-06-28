@@ -16,6 +16,10 @@ The authors are further inspired by:
 ## Getting Started
 Either download the provided `Jupyter Notebook` or run on [Google Colab](https://colab.research.google.com/drive/1_386oAXNeaWwhixim8iOuaiutsSeGyxe?usp=sharing).
 
+## Results
+The network learns to generate (somewhat) correct permutation matrices:
+![Sort results using Gumbel-Sinkhorn networks](Results.png)
+
 
 
 
